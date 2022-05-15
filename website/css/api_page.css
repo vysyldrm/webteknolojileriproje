@@ -1,0 +1,12 @@
+.movies li{
+  align-items: center;
+  list-style: none;
+  margin: 10px;
+  padding: 15px;
+  text-align: center;
+}
+
+img{
+  max-width: 150px;
+  border-radius: 12px;
+}
